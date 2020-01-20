@@ -2,6 +2,6 @@
 
 git pull
 npm install
-pm2 restart all
+sudo pm2 restart index
 exit
 EOF
