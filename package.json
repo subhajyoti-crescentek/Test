@@ -1,0 +1,24 @@
+{
+  "name": "testmtproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhajyoti-crescentek/TestMtProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhajyoti-crescentek/TestMtProject/issues"
+  },
+  "homepage": "https://github.com/subhajyoti-crescentek/TestMtProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^7.0.0",
+    "supertest": "^4.0.2"
+  }
+}
